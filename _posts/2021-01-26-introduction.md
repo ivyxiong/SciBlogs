@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introduction to SciBlogs"
+title: "Introducing SciBlogs"
 ---
 
 Hello everyone! Welcome to **SciBlogs**, a brand new research-oriented blog page. 
