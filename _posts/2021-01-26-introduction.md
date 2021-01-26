@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to SciBlogs"
 ---
 
-Hello everyone! Welcome to SciBlogs, a brand new research-oriented blog page. 
+Hello everyone! Welcome to **SciBlogs**, a brand new research-oriented blog page. 
 
 I am Ivy, an emerging researcher dedicated to bring together genetics, bioinformatics and mathematics to understand the fundamental principles of cancer biology (find out more at my [personal research website](https://lingyunxiong.github.io)). Now that I am about to start independent research, I crave for a platform to publicize my scientific journey as it happens. 
 
