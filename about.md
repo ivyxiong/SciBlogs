@@ -4,10 +4,8 @@ title: About
 ---
 
 <p class="message">
-  Hello everyone! 
-
-  I am creating this blog page to column personal opinion on contemporary issues concerning modern scientific research, with the aim to stimulate further discussion and invite friendly debate in the broader scientific community. 
-
+  Hello everyone! I am an early-career scientist enthusiastic about promoting open discussion on pressing issues of wide interest in the research community. 
+  This site is an ongoing effort to provide a platform for my personal opinions on a multitude of challenges facing the entire community. 
   Interested? Join the conversation now!
 </p>
 
