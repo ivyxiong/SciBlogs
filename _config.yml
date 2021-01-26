@@ -1,0 +1,21 @@
+# Setup
+title:               Research Blogs
+tagline:             'Hosted by Ivy Xiong'
+description:         'A site for personal reflections on modern scientific research'
+baseurl:             '/SciBlogs'
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Ivy Xiong
+  url:               https://lingyunxiong.github.io
+  email:             u3502943@connect.hku.hk
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             0.1 (Testing)
+google_analytics_id: #UA-XXXX-Y
