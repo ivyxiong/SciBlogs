@@ -9,7 +9,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Ivy Xiong
-  url:               https://lingyunxiong.github.io
+  url:               https://ivyxiong.github.io
   email:             u3502943@connect.hku.hk
 
 # Gems
@@ -17,5 +17,5 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             0.1 (Testing)
+version:             1.0
 google_analytics_id: #UA-XXXX-Y
